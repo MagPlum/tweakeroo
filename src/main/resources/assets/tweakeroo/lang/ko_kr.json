@@ -482,7 +482,7 @@
     "tweakeroo.config.generic.comment.shulkerDisplayEnderChest": "엔더 상자의 표시를 셜커 상자 표시와 같게 설정합니다.",
     "tweakeroo.config.generic.comment.shulkerDisplayRequireShift": "셜커 상자 미리보기에 Shift 키를 눌러야 하는지 여부입니다.",
     "tweakeroo.config.generic.comment.slotSyncWorkaround": "이 기능은 빠른 오른쪽 클릭 트윅처럼 빠르게 사용되는 아이템의\n내구도나 스택 크기를 서버가 덮어쓰는 것을 방지합니다.",
-    "tweakeroo.config.generic.comment.slotSyncWorkaroundAlways": "빠른 오른쪽 클릭이나 빠른 블록 설치를 사용할 때 뿐만 아니라\n사용 키를 누르고 있으면 언제나 슬롯 동기화 차선책을 활성화합니다.\n이는 주로 라이트메티카의 쉬운 설치 모드처럼 사용 키를 누르고 있을\n때 아이템을 빠르게 사용할 수 있게 해주는 다른 모드를 위한 것입니다.",
+    "tweakeroo.config.generic.comment.slotSyncWorkaroundAlways": "빠른 오른쪽 클릭이나 빠른 블록 설치를 사용할 때 뿐만 아니라\n사용 키를 누르고 있으면 언제나 슬롯 동기화 차선책을 활성화합니다.\n이는 주로 라이트매티카의 쉬운 설치 모드처럼 사용 키를 누르고 있을\n때 아이템을 빠르게 사용할 수 있게 해주는 다른 모드를 위한 것입니다.",
     "tweakeroo.config.generic.comment.snapAimIndicator": "스냅 조준 각도 표시기를 렌더링할지 여부입니다.",
     "tweakeroo.config.generic.comment.snapAimIndicatorColor": "스냅 조준 표시기의 배경 색상입니다.",
     "tweakeroo.config.generic.comment.snapAimMode": "스냅 조준 모드: 요, 피치 또는 둘 다",
